@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UPackageInspector": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\nekochanfood\\Downloads\\UniVRM-0.108.0_e16d.unitypackage"
+    }
+  }
+}
